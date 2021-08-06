@@ -16,8 +16,7 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSQL"],
       mobile: ["Android"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Front end developer at Atmira, open for job opportunities"]
 };
 ```
 </br></br>
