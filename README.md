@@ -6,7 +6,7 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
-         js: ["Ionic", "Angular"],
+         js: ["Ionic", "Angular", "Vue"],
          css: ["Bootstrap", "Material Design"]
       },
       backEnd: {
